@@ -30,4 +30,22 @@ How are hydrodynamic models used?
 The main use of hydrodynamic models in CWC is to provide flood forecast guidance for all the 328 Forecasting stations it has on real-time basis. The output include Flood forecast with 120 hours lead time along with a time series of river water surface elevation & discharge on the real-time basis. These results are useful to a wide range of users, provided that sufficient accuracy has been demonstrated from the model. This is generally done by comparing model results to actual site observations.
 
 The CWC flood forecast system is run routinely (three hourly) by a short simulation of the recent past forced by observation data followed by a forecast of the following five days. The model forecast accuracy is primarily governed by accuracy of forecasted rainfall input and decreases the further in time it extends. Hydrodynamic models for flood forecast guidance in CWC are running operationally for all the major flood forecasting stations of the country and continue to be developed and improved further.
+Press Information Bureau
+Government of India
+Ministry of Jal Shakti
+03-February-2022 16:52 IST
+Challenges of Flood Forecasting 
+
+Flood Forecasting on International & Inter-state Rivers is formulated and issued by Central Water Commission (CWC) using statistical methods for short range forecasting and mathematical modelling for ﬁveday’s advance ﬂood advisory. The main challenge being faced in flood forecasting is to accurately forecast the impending flood sufficiently in advance with high level of accuracy. Mathematical modelling based flood advisory although provide sufficient lead time, its accuracy is dependent on accuracy of weather(rainfall) forecasts. The growing incidents of high intensity rainfall in shorter duration due to likely impact of climate change poses another challenge for flood forecasting.
+
+There is a continuous eﬀort for improvement of Flood Forecasting using all the latest technology including space technology tools, Geographical Information System (GIS), web based applications, etc. Following steps have been taken to improve the Flood forecasting system in the country.
+
+Expansion of Flood Forecasting Network: CWC ﬂood forecasting network has been expanded to 331 Flood Forecast Stations(199 Level Forecast for Villages/Town on the bank of the rivers and 132Inﬂow Forecast Stations for Dams and Barrages) covering 23 States &2 UTs in 20 river basins for taking proper mitigation measures by respective State Governments. In the State of Andhra Pradesh, there are 13 level forecasting stations and 10 in ﬂow forecasting stations.
+Modernization of Flood Forecast Formulation: Flood forecasting is issued up to 5 days in advance for major river basins across the country including the State of Andhra Pradesh. The same is updated every three hours and is available online (https://120.57.99.138/index.php).
+Modernization in dissemination of ﬂood forecasts: Dissemination of ﬂood forecasts has also been modernized through a dedicated website. Daily Flood Situation Report cum Advisory is shared with all stakeholders aswell as general public using social media platforms.
+ Bilateral agreements with upper riparian countries Nepal, Bhutan &China have been made for data sharing.
+
+ Common data platform, Water Information Management System(WIMS), under National Water Informatics Centre (NWIC), has been created to ensure seamless data ﬂow from States and CWC formodelling work. In addition, arrangements for seamless data ﬂow from agencies like INCOIS, NASA, JAXA, etc. have also been made.
+
+This Information was given by the Minister of State for Jal Shakti, Shri Bishweswar Tudu in a written  reply in Lok Sabha today.
 
